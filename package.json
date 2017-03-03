@@ -1,0 +1,24 @@
+{
+  "name": "smeargle",
+  "version": "0.0.1",
+  "description": "a palette and color tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmaRamirez/smeargle.git"
+  },
+  "keywords": [
+    "palette",
+    "colors",
+    "smeargle"
+  ],
+  "author": "Emma Ramirez <ramirez.emma.g@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmmaRamirez/smeargle/issues"
+  },
+  "homepage": "https://github.com/EmmaRamirez/smeargle#readme"
+}
